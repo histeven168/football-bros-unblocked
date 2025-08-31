@@ -1,5 +1,5 @@
-# football-bros-unblocked
-[Football Bros Unblocked](https://playfootballbros.net/) brings old-school arcade football to the browser with snappy controls, short matches, and room for strategy. Each possession blends quick reads with timing: hit the flat before the blitz lands, take a measured deep shot when the safety bites, or grind yards on the ground to bleed the clock. It’s simple to start, but there’s genuine depth for players who love to outthink opponents. Whether you’re warming up for a quick break or setting up a couch rivalry, football bros delivers fast, readable action without losing tactical nuance.
+# football bros
+[Football Bros](https://playfootballbros.net/) brings old-school arcade football to the browser with snappy controls, short matches, and room for strategy. Each possession blends quick reads with timing: hit the flat before the blitz lands, take a measured deep shot when the safety bites, or grind yards on the ground to bleed the clock. It’s simple to start, but there’s genuine depth for players who love to outthink opponents. Whether you’re warming up for a quick break or setting up a couch rivalry, football bros delivers fast, readable action without losing tactical nuance.
 
 ![football bros](https://playfootballbros.net/images/footballbros.webp)
 
